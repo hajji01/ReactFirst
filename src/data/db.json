@@ -1,0 +1,44 @@
+{
+    "produits": [
+        {
+            "id": 1,
+            "nom": "iPhone 13 Pro Max 128Go",
+            "description": "L'iPhone 13 Pro Max offre un écran Super Retina XDR de 6,7 pouces, un processeur A15 Bionic, et une autonomie incroyable.",
+            "prix": 1099.99,
+            "image": "https://www.apple.com/v/iphone-13-pro/i/images/overview/hero/hero__d7s68bztdm2u_large.jpg",
+            "quantite": 50
+        },
+        {
+            "id": 2,
+            "nom": "iPhone 13 64Go",
+            "description": "L'iPhone 13 est conçu pour être puissant, avec un écran OLED de 6,1 pouces, la puce A15 Bionic, et des performances exceptionnelles.",
+            "prix": 799.99,
+            "image": "https://www.apple.com/v/iphone-13/i/images/overview/hero/hero__d7s68bztdm2u_large.jpg",
+            "quantite": 75
+        },
+        {
+            "id": 3,
+            "nom": "iPhone 12 Mini 64Go",
+            "description": "Un iPhone compact avec un écran de 5,4 pouces, un processeur A14 Bionic, et un design moderne et élégant.",
+            "prix": 699.99,
+            "image": "https://www.apple.com/v/iphone-12/i/images/overview/hero/hero__d7s68bztdm2u_large.jpg",
+            "quantite": 30
+        },
+        {
+            "id": 4,
+            "nom": "iPhone 13 Pro 256Go",
+            "description": "Avec son écran ProMotion de 120Hz, la caméra professionnelle et la puce A15 Bionic, l'iPhone 13 Pro offre des performances inégalées.",
+            "prix": 1199.99,
+            "image": "https://www.apple.com/v/iphone-13-pro/i/images/overview/hero/hero__d7s68bztdm2u_large.jpg",
+            "quantite": 60
+        },
+        {
+            "id": 5,
+            "nom": "iPhone SE (2020) 64Go",
+            "description": "L'iPhone SE combine des performances exceptionnelles avec la puce A13 Bionic et un design compact.",
+            "prix": 399.99,
+            "image": "https://www.apple.com/v/iphone-se/i/images/overview/hero/hero__r5g5b3e8qjq6_large.jpg",
+            "quantite": 100
+        }
+    ]
+}
